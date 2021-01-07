@@ -1,5 +1,5 @@
 # MachineLearning-Repository
-About Me-: My name is Rohit Bhardwaj. I have done b.tech in 2020 from Bipin Tripathi Kumaon Istitute of Technology, Dwarahat uttarakhand, india. I am a fresher and i want a work
+About Me-: My name is Rohit Kumar. I have done b.tech in 2020 from Bipin Tripathi Kumaon Istitute of Technology, Dwarahat uttarakhand, india. I am a fresher and i want a work
 for imporving my financial condition. Pleases contact me if your company have requirement. my email is- rk221377@gmail.com
 1. About GUI_diabetes_predictor-:
 	This program is uses logistic regression to calculate the percentage of the diabetic or not diabetic patient. I have taken so much time to
